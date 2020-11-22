@@ -1,5 +1,3 @@
---Once you have a complete database, do the following:
-
 --1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 SELECT employees.emp_no, last_name, first_name, sex, salary
 FROM employees JOIN salaries
