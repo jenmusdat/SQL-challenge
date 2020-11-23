@@ -13,11 +13,11 @@ From there I created a SQL query for the specific questions in the assignment.  
 # BONUS
 For the bonus I read in the code to link the database to Pandas. Once there I simply did a SQL call on the specifc information we were looking at. From there I created a histogram. 
 
-![image](https://user-images.githubusercontent.com/71193081/99931594-f434f900-2d09-11eb-9954-49b85293a1f9.png)
+![bonus_bar_chart](https://user-images.githubusercontent.com/71193081/99932105-ef714480-2d0b-11eb-9946-be2b382c98bf.png)
 
 Finally for the bar chart I first did a python call on the title column and discovered the average salary for each position by title. I then reset the index to be able to use the title column as an axis in the bar chart.
 
-![image](https://user-images.githubusercontent.com/71193081/99931597-fb5c0700-2d09-11eb-863c-4eecca0de032.png)
+![bonus_histogram](https://user-images.githubusercontent.com/71193081/99932113-f1d39e80-2d0b-11eb-885b-d075f1956ed7.png)
 
 ### Submitted by:
 ### Jenny Kaylor
