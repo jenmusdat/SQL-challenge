@@ -11,9 +11,13 @@ Once I concluded my planning on the database diagram site, I exported the inform
 From there I created a SQL query for the specific questions in the assignment.  Some of the call required joining mutiple tables to get the answer.
 
 # BONUS
-For the bonus I read in the code to link the database to Pandas. Once there I simply did a SQL call on the specifc information we were looking at. From there I created a histogram. Finally for the bar chart I first called the title and discovered the average salary. I then reset the index to be able to use the title as an axis in the bar chart.
+For the bonus I read in the code to link the database to Pandas. Once there I simply did a SQL call on the specifc information we were looking at. From there I created a histogram. 
 
+![image](https://user-images.githubusercontent.com/71193081/99931594-f434f900-2d09-11eb-9954-49b85293a1f9.png)
 
+Finally for the bar chart I first did a python call on the title column and discovered the average salary for each position by title. I then reset the index to be able to use the title column as an axis in the bar chart.
+
+![image](https://user-images.githubusercontent.com/71193081/99931597-fb5c0700-2d09-11eb-863c-4eecca0de032.png)
 
 ### Submitted by:
 ### Jenny Kaylor
