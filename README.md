@@ -13,6 +13,6 @@ For the bonus I read in the code to link the database to Pandas. Once there I si
 
 
 
-# Submitted by:
-# Jenny Kaylor
-# 11/22/2020
+### Submitted by:
+### Jenny Kaylor
+### 11/22/2020
